@@ -1,24 +1,22 @@
 #=================================================================#
-# monedas puntuacion
+# punto de inicio del jugador
 #=================================================================#
 
-def crear_moneda(x, y):
-    moneda = {
-        "id": "moneda1",
-        "nombre": "moneda",
-        "tipo": "coleccionable",
-        "subtipo": "moneda",
+def crear_inicio(x, y):
+    inicio = {
+        "id": "inicio1",
+        "nombre": "inicio",
+        "tipo": "fijo",
+        "subtipo": "inicio",
 
         "x": x,
         "y": y,
 
-        "radio": 20,
-        
-        "valor": 100,
+        "radio": 30,
 
         "activo": True,
         "visible": True,
 
         "hitbox": None
     }
-    return moneda
+    return inicio
