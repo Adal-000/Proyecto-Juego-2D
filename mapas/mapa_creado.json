@@ -1,0 +1,25 @@
+{
+    "inicio": {
+        "x": 40,
+        "y": 520
+    },
+    "meta": {
+        "x": 240,
+        "y": 520,
+        "w": 45,
+        "h": 75
+    },
+    "plataformas": [
+        {
+            "x": 0,
+            "y": 640,
+            "w": 1150,
+            "h": 60
+        }
+    ],
+    "escaleras": [],
+    "enemigos": [],
+    "trampas": [],
+    "monedas": [],
+    "puntaje_mapa": 0
+}

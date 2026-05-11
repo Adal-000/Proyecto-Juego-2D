@@ -1,0 +1,231 @@
+[
+    {
+        "nombre": "Mapa creado",
+        "fecha": "2026-05-08 14:30:41",
+        "mapa": {
+            "inicio": {
+                "x": 40,
+                "y": 520
+            },
+            "meta": {
+                "x": 240,
+                "y": 520,
+                "w": 45,
+                "h": 75
+            },
+            "plataformas": [
+                {
+                    "x": 0,
+                    "y": 640,
+                    "w": 1150,
+                    "h": 60
+                }
+            ],
+            "escaleras": [],
+            "enemigos": [],
+            "trampas": [],
+            "monedas": [],
+            "puntaje_mapa": 0
+        }
+    },
+    {
+        "nombre": "Mapa creado",
+        "fecha": "2026-05-08 14:30:03",
+        "mapa": {
+            "inicio": {
+                "x": 0,
+                "y": 600
+            },
+            "meta": {
+                "x": 840,
+                "y": 600,
+                "w": 45,
+                "h": 75
+            },
+            "plataformas": [
+                {
+                    "x": 0,
+                    "y": 640,
+                    "w": 1150,
+                    "h": 60
+                }
+            ],
+            "escaleras": [],
+            "enemigos": [
+                {
+                    "nombre": "Slime Rojo",
+                    "subtipo": "slime_rojo",
+                    "x": 282,
+                    "y": 604,
+                    "w": 42,
+                    "h": 34,
+                    "vx": 2.2,
+                    "vy": 0,
+                    "limite_izquierdo": 190,
+                    "limite_derecho": 420,
+                    "canvas_id": null,
+                    "label_id": null,
+                    "activo": true
+                },
+                {
+                    "nombre": "Bola de Fuego",
+                    "subtipo": "bola_fuego",
+                    "x": 403,
+                    "y": 603,
+                    "w": 34,
+                    "h": 34,
+                    "vx": 0,
+                    "vy": 2.8,
+                    "limite_superior": 500,
+                    "limite_inferior": 640,
+                    "canvas_id": null,
+                    "label_id": null,
+                    "activo": true
+                },
+                {
+                    "nombre": "Lanzador",
+                    "subtipo": "lanzador",
+                    "x": 641,
+                    "y": 598,
+                    "w": 38,
+                    "h": 42,
+                    "vx": 0,
+                    "vy": 0,
+                    "canvas_id": null,
+                    "label_id": null,
+                    "activo": true,
+                    "proyectil": {
+                        "x": 623,
+                        "y": 613,
+                        "w": 16,
+                        "h": 12,
+                        "vx": -4,
+                        "vy": 0,
+                        "inicio_x": 623,
+                        "distancia": 260,
+                        "canvas_id": null,
+                        "activo": true
+                    }
+                },
+                {
+                    "nombre": "Slime Rojo",
+                    "subtipo": "slime_rojo",
+                    "x": 722,
+                    "y": 604,
+                    "w": 42,
+                    "h": 34,
+                    "vx": 2.2,
+                    "vy": 0,
+                    "limite_izquierdo": 630,
+                    "limite_derecho": 860,
+                    "canvas_id": null,
+                    "label_id": null,
+                    "activo": true
+                }
+            ],
+            "trampas": [],
+            "monedas": [],
+            "puntaje_mapa": 600
+        }
+    },
+    {
+        "nombre": "Mapa creado",
+        "fecha": "2026-05-08 14:29:28",
+        "mapa": {
+            "inicio": {
+                "x": 0,
+                "y": 600
+            },
+            "meta": {
+                "x": 840,
+                "y": 600,
+                "w": 45,
+                "h": 75
+            },
+            "plataformas": [
+                {
+                    "x": 0,
+                    "y": 640,
+                    "w": 1150,
+                    "h": 60
+                }
+            ],
+            "escaleras": [],
+            "enemigos": [
+                {
+                    "nombre": "Slime Rojo",
+                    "subtipo": "slime_rojo",
+                    "x": 282,
+                    "y": 604,
+                    "w": 42,
+                    "h": 34,
+                    "vx": 2.2,
+                    "vy": 0,
+                    "limite_izquierdo": 190,
+                    "limite_derecho": 420,
+                    "canvas_id": null,
+                    "label_id": null,
+                    "activo": true
+                },
+                {
+                    "nombre": "Bola de Fuego",
+                    "subtipo": "bola_fuego",
+                    "x": 403,
+                    "y": 603,
+                    "w": 34,
+                    "h": 34,
+                    "vx": 0,
+                    "vy": 2.8,
+                    "limite_superior": 500,
+                    "limite_inferior": 640,
+                    "canvas_id": null,
+                    "label_id": null,
+                    "activo": true
+                },
+                {
+                    "nombre": "Lanzador",
+                    "subtipo": "lanzador",
+                    "x": 641,
+                    "y": 598,
+                    "w": 38,
+                    "h": 42,
+                    "vx": 0,
+                    "vy": 0,
+                    "canvas_id": null,
+                    "label_id": null,
+                    "activo": true,
+                    "proyectil": {
+                        "x": 623,
+                        "y": 613,
+                        "w": 16,
+                        "h": 12,
+                        "vx": -4,
+                        "vy": 0,
+                        "inicio_x": 623,
+                        "distancia": 260,
+                        "canvas_id": null,
+                        "activo": true
+                    }
+                },
+                {
+                    "nombre": "Slime Rojo",
+                    "subtipo": "slime_rojo",
+                    "x": 722,
+                    "y": 604,
+                    "w": 42,
+                    "h": 34,
+                    "vx": 2.2,
+                    "vy": 0,
+                    "limite_izquierdo": 630,
+                    "limite_derecho": 860,
+                    "canvas_id": null,
+                    "label_id": null,
+                    "activo": true
+                }
+            ],
+            "trampas": [],
+            "monedas": [],
+            "puntaje_mapa": 600
+        }
+    }
+]
