@@ -1,0 +1,5 @@
+Jugador,1500
+Jugador,1140
+Jugador,980
+Jugador,980
+Jugador,980
